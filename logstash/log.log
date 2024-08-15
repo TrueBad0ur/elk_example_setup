@@ -1,0 +1,240 @@
+{"timestamp": "2023-01-01T00:00:00Z", "level": "WARN", "message": "Daily report generated", "host": "server1", "pid": 7321, "report_id": "summary_2024"}
+{"timestamp": "2023-01-01T01:00:00Z", "level": "WARN", "message": "Application initialized successfully", "host": "server3", "pid": 4657}
+{"timestamp": "2023-01-01T02:00:00Z", "level": "ERROR", "message": "API rate limit nearing threshold", "host": "server1", "pid": 8642}
+{"timestamp": "2023-01-01T03:00:00Z", "level": "INFO", "message": "Daily report generated", "host": "server4", "pid": 1357, "report_id": "summary_2024"}
+{"timestamp": "2023-01-01T04:00:00Z", "level": "ERROR", "message": "Application reached peak load", "host": "server2", "pid": 6420}
+{"timestamp": "2023-01-01T05:00:00Z", "level": "DEBUG", "message": "Daily report generated", "host": "server4", "pid": 1023, "report_id": "summary_2024"}
+{"timestamp": "2023-01-01T06:00:00Z", "level": "ERROR", "message": "System health check passed", "host": "server1", "pid": 5548}
+{"timestamp": "2023-01-01T07:00:00Z", "level": "ERROR", "message": "Server restarted for maintenance", "host": "server3", "pid": 9102}
+{"timestamp": "2023-01-01T08:00:00Z", "level": "DEBUG", "message": "API rate limit nearing threshold", "host": "server3", "pid": 8210}
+{"timestamp": "2023-01-01T09:00:00Z", "level": "INFO", "message": "Low disk space on server", "host": "server3", "pid": 1986}
+{"timestamp": "2023-01-01T10:00:00Z", "level": "ERROR", "message": "Debugging session started", "host": "server2", "pid": 4321, "user": "bob_jones"}
+{"timestamp": "2023-01-01T11:00:00Z", "level": "DEBUG", "message": "Application reached peak load", "host": "server4", "pid": 1023}
+{"timestamp": "2023-01-01T12:00:00Z", "level": "ERROR", "message": "High memory usage detected", "host": "server2", "pid": 7531}
+{"timestamp": "2023-01-01T13:00:00Z", "level": "ERROR", "message": "Server restarted for maintenance", "host": "server4", "pid": 8642}
+{"timestamp": "2023-01-01T14:00:00Z", "level": "DEBUG", "message": "User login successful", "host": "server1", "pid": 7531, "user": "admin"}
+{"timestamp": "2023-01-01T15:00:00Z", "level": "INFO", "message": "Application reached peak load", "host": "server4", "pid": 7531}
+{"timestamp": "2023-01-01T16:00:00Z", "level": "WARN", "message": "Loading configuration from config.yaml", "host": "server1", "pid": 9753}
+{"timestamp": "2023-01-01T17:00:00Z", "level": "DEBUG", "message": "Disk cleanup completed", "host": "server4", "pid": 1234}
+{"timestamp": "2023-01-01T18:00:00Z", "level": "INFO", "message": "Cache invalidated", "host": "server1", "pid": 5548}
+{"timestamp": "2023-01-01T19:00:00Z", "level": "ERROR", "message": "Maintenance window closed", "host": "server1", "pid": 5678}
+{"timestamp": "2023-01-01T20:00:00Z", "level": "ERROR", "message": "Application initialized successfully", "host": "server2", "pid": 5319}
+{"timestamp": "2023-01-01T21:00:00Z", "level": "DEBUG", "message": "Loading configuration from config.yaml", "host": "server2", "pid": 2874}
+{"timestamp": "2023-01-01T22:00:00Z", "level": "DEBUG", "message": "User session extended", "host": "server2", "pid": 8642, "user": "alice_smith"}
+{"timestamp": "2023-01-01T23:00:00Z", "level": "ERROR", "message": "User session extended", "host": "server4", "pid": 5548, "user": "alice_smith"}
+{"timestamp": "2023-01-02T00:00:00Z", "level": "ERROR", "message": "Disk cleanup completed", "host": "server1", "pid": 6789}
+{"timestamp": "2023-01-02T01:00:00Z", "level": "WARN", "message": "Session expired for user", "host": "server1", "pid": 7531}
+{"timestamp": "2023-01-02T02:00:00Z", "level": "ERROR", "message": "Application reached peak load", "host": "server3", "pid": 9753}
+{"timestamp": "2023-01-02T03:00:00Z", "level": "ERROR", "message": "Failed to connect to external service", "host": "server3", "pid": 7531}
+{"timestamp": "2023-01-02T04:00:00Z", "level": "INFO", "message": "API rate limit nearing threshold", "host": "server1", "pid": 8901}
+{"timestamp": "2023-01-02T05:00:00Z", "level": "DEBUG", "message": "Debugging session started", "host": "server3", "pid": 1109, "user": "bob_jones"}
+{"timestamp": "2023-01-01T00:00:00Z", "level": "ERROR", "message": "Scheduled database maintenance", "host": "server2", "pid": 8210}
+{"timestamp": "2023-01-01T01:00:00Z", "level": "INFO", "message": "Debugging session started", "host": "server4", "pid": 8642, "user": "jane_smith"}
+{"timestamp": "2023-01-01T02:00:00Z", "level": "WARN", "message": "Software update applied", "host": "server3", "pid": 5319}
+{"timestamp": "2023-01-01T03:00:00Z", "level": "INFO", "message": "High memory usage detected", "host": "server3", "pid": 8642}
+{"timestamp": "2023-01-01T04:00:00Z", "level": "WARN", "message": "Software update applied", "host": "server1", "pid": 3056}
+{"timestamp": "2023-01-01T05:00:00Z", "level": "WARN", "message": "Memory usage optimized", "host": "server3", "pid": 3097}
+{"timestamp": "2023-01-01T06:00:00Z", "level": "WARN", "message": "Scheduled database maintenance", "host": "server2", "pid": 4657}
+{"timestamp": "2023-01-01T07:00:00Z", "level": "INFO", "message": "Loading configuration from config.yaml", "host": "server1", "pid": 9102}
+{"timestamp": "2023-01-01T08:00:00Z", "level": "ERROR", "message": "New user registered", "host": "server4", "pid": 6420}
+{"timestamp": "2023-01-01T09:00:00Z", "level": "WARN", "message": "Connection reestablished with database", "host": "server2", "pid": 8901}
+{"timestamp": "2023-01-01T10:00:00Z", "level": "WARN", "message": "Backup completed successfully", "host": "server2", "pid": 6789}
+{"timestamp": "2023-01-01T11:00:00Z", "level": "DEBUG", "message": "Disk cleanup completed", "host": "server2", "pid": 1234}
+{"timestamp": "2023-01-01T12:00:00Z", "level": "WARN", "message": "Disk cleanup completed", "host": "server4", "pid": 5678}
+{"timestamp": "2023-01-01T13:00:00Z", "level": "ERROR", "message": "Backup completed successfully", "host": "server4", "pid": 5548}
+{"timestamp": "2023-01-01T14:00:00Z", "level": "INFO", "message": "Debug mode enabled", "host": "server3", "pid": 5319}
+{"timestamp": "2023-01-01T15:00:00Z", "level": "ERROR", "message": "Holiday mode activated", "host": "server1", "pid": 1986}
+{"timestamp": "2023-01-01T16:00:00Z", "level": "DEBUG", "message": "Disk cleanup completed", "host": "server1", "pid": 3765}
+{"timestamp": "2023-01-01T17:00:00Z", "level": "ERROR", "message": "Application reached peak load", "host": "server2", "pid": 6789}
+{"timestamp": "2023-01-01T18:00:00Z", "level": "WARN", "message": "Scheduled database maintenance", "host": "server2", "pid": 8642}
+{"timestamp": "2023-01-01T19:00:00Z", "level": "ERROR", "message": "Disk cleanup completed", "host": "server1", "pid": 5678}
+{"timestamp": "2023-01-01T20:00:00Z", "level": "ERROR", "message": "Scheduled database maintenance", "host": "server1", "pid": 4208}
+{"timestamp": "2023-01-01T21:00:00Z", "level": "ERROR", "message": "Debug mode enabled", "host": "server3", "pid": 5548}
+{"timestamp": "2023-01-01T22:00:00Z", "level": "ERROR", "message": "Loading configuration from config.yaml", "host": "server4", "pid": 6789}
+{"timestamp": "2023-01-01T23:00:00Z", "level": "WARN", "message": "Low disk space on server", "host": "server4", "pid": 4321}
+{"timestamp": "2023-01-02T00:00:00Z", "level": "INFO", "message": "Scheduled database maintenance", "host": "server1", "pid": 8642}
+{"timestamp": "2023-01-02T01:00:00Z", "level": "WARN", "message": "Application initialized successfully", "host": "server1", "pid": 1019}
+{"timestamp": "2023-01-02T02:00:00Z", "level": "WARN", "message": "Debug mode enabled", "host": "server2", "pid": 1023}
+{"timestamp": "2023-01-02T03:00:00Z", "level": "INFO", "message": "Disk cleanup completed", "host": "server1", "pid": 7890}
+{"timestamp": "2023-01-02T04:00:00Z", "level": "WARN", "message": "Disk cleanup completed", "host": "server3", "pid": 1023}
+{"timestamp": "2023-01-02T05:00:00Z", "level": "INFO", "message": "Loading configuration from config.yaml", "host": "server4", "pid": 9012}
+{"timestamp": "2023-01-01T00:00:00Z", "level": "INFO", "message": "Memory usage optimized", "host": "server3", "pid": 6789}
+{"timestamp": "2023-01-01T01:00:00Z", "level": "ERROR", "message": "Session expired for user", "host": "server3", "pid": 7890}
+{"timestamp": "2023-01-01T02:00:00Z", "level": "ERROR", "message": "Maintenance window closed", "host": "server1", "pid": 2468}
+{"timestamp": "2023-01-01T03:00:00Z", "level": "DEBUG", "message": "Scheduled database maintenance", "host": "server2", "pid": 4208}
+{"timestamp": "2023-01-01T04:00:00Z", "level": "WARN", "message": "Backup completed successfully", "host": "server4", "pid": 6420}
+{"timestamp": "2023-01-01T05:00:00Z", "level": "ERROR", "message": "Memory usage optimized", "host": "server1", "pid": 2048}
+{"timestamp": "2023-01-01T06:00:00Z", "level": "ERROR", "message": "Holiday mode activated", "host": "server3", "pid": 5319}
+{"timestamp": "2023-01-01T07:00:00Z", "level": "WARN", "message": "Connection reestablished with database", "host": "server2", "pid": 1986}
+{"timestamp": "2023-01-01T08:00:00Z", "level": "ERROR", "message": "Maintenance window closed", "host": "server2", "pid": 1023}
+{"timestamp": "2023-01-01T09:00:00Z", "level": "INFO", "message": "Server restarted for maintenance", "host": "server1", "pid": 9102}
+{"timestamp": "2023-01-01T10:00:00Z", "level": "WARN", "message": "Low disk space on server", "host": "server4", "pid": 3765}
+{"timestamp": "2023-01-01T11:00:00Z", "level": "DEBUG", "message": "Loading configuration from config.yaml", "host": "server2", "pid": 3056}
+{"timestamp": "2023-01-01T12:00:00Z", "level": "DEBUG", "message": "Holiday mode activated", "host": "server4", "pid": 3056}
+{"timestamp": "2023-01-01T13:00:00Z", "level": "DEBUG", "message": "Application initialized successfully", "host": "server1", "pid": 2468}
+{"timestamp": "2023-01-01T14:00:00Z", "level": "WARN", "message": "Daily report generated", "host": "server2", "pid": 7321, "report_id": "summary_2024"}
+{"timestamp": "2023-01-01T15:00:00Z", "level": "INFO", "message": "Backup completed successfully", "host": "server3", "pid": 8901}
+{"timestamp": "2023-01-01T16:00:00Z", "level": "WARN", "message": "Backup completed successfully", "host": "server3", "pid": 9753}
+{"timestamp": "2023-01-01T17:00:00Z", "level": "ERROR", "message": "User permissions updated", "host": "server3", "pid": 4208, "user": "guest"}
+{"timestamp": "2023-01-01T18:00:00Z", "level": "DEBUG", "message": "Application reached peak load", "host": "server1", "pid": 6420}
+{"timestamp": "2023-01-01T19:00:00Z", "level": "ERROR", "message": "Loading configuration from config.yaml", "host": "server4", "pid": 6420}
+{"timestamp": "2023-01-01T20:00:00Z", "level": "ERROR", "message": "Low disk space on server", "host": "server4", "pid": 3056}
+{"timestamp": "2023-01-01T21:00:00Z", "level": "ERROR", "message": "Debugging session started", "host": "server1", "pid": 1023, "user": "john_doe"}
+{"timestamp": "2023-01-01T22:00:00Z", "level": "DEBUG", "message": "User permissions updated", "host": "server3", "pid": 7890, "user": "admin"}
+{"timestamp": "2023-01-01T23:00:00Z", "level": "INFO", "message": "User session extended", "host": "server1", "pid": 5319, "user": "bob_jones"}
+{"timestamp": "2023-01-02T00:00:00Z", "level": "DEBUG", "message": "Session expired for user", "host": "server3", "pid": 2048}
+{"timestamp": "2023-01-02T01:00:00Z", "level": "ERROR", "message": "Application reached peak load", "host": "server2", "pid": 7890}
+{"timestamp": "2023-01-02T02:00:00Z", "level": "WARN", "message": "New user registered", "host": "server3", "pid": 1109}
+{"timestamp": "2023-01-02T03:00:00Z", "level": "DEBUG", "message": "Scheduled database maintenance", "host": "server3", "pid": 3056}
+{"timestamp": "2023-01-02T04:00:00Z", "level": "ERROR", "message": "Access denied for user operation", "host": "server2", "pid": 3765, "error": "ConnectionRefused"}
+{"timestamp": "2023-01-02T05:00:00Z", "level": "INFO", "message": "Debug mode enabled", "host": "server1", "pid": 2048}
+{"timestamp": "2023-01-01T00:00:00Z", "level": "INFO", "message": "Cache invalidated", "host": "server2", "pid": 8642}
+{"timestamp": "2023-01-01T01:00:00Z", "level": "ERROR", "message": "Maintenance window closed", "host": "server3", "pid": 8901}
+{"timestamp": "2023-01-01T02:00:00Z", "level": "ERROR", "message": "Software update applied", "host": "server1", "pid": 1357}
+{"timestamp": "2023-01-01T03:00:00Z", "level": "ERROR", "message": "System health check passed", "host": "server3", "pid": 6439}
+{"timestamp": "2023-01-01T04:00:00Z", "level": "INFO", "message": "Disk cleanup completed", "host": "server1", "pid": 9012}
+{"timestamp": "2023-01-01T05:00:00Z", "level": "INFO", "message": "Failed to connect to external service", "host": "server2", "pid": 1023}
+{"timestamp": "2023-01-01T06:00:00Z", "level": "INFO", "message": "Debugging session started", "host": "server3", "pid": 8210, "user": "alice_smith"}
+{"timestamp": "2023-01-01T07:00:00Z", "level": "WARN", "message": "Debugging session started", "host": "server2", "pid": 4657, "user": "jane_smith"}
+{"timestamp": "2023-01-01T08:00:00Z", "level": "WARN", "message": "API rate limit nearing threshold", "host": "server2", "pid": 2048}
+{"timestamp": "2023-01-01T09:00:00Z", "level": "WARN", "message": "Backup completed successfully", "host": "server1", "pid": 8901}
+{"timestamp": "2023-01-01T10:00:00Z", "level": "WARN", "message": "High memory usage detected", "host": "server3", "pid": 6789}
+{"timestamp": "2023-01-01T11:00:00Z", "level": "DEBUG", "message": "High memory usage detected", "host": "server1", "pid": 1234}
+{"timestamp": "2023-01-01T12:00:00Z", "level": "WARN", "message": "Application reached peak load", "host": "server1", "pid": 5678}
+{"timestamp": "2023-01-01T13:00:00Z", "level": "WARN", "message": "Debug mode enabled", "host": "server2", "pid": 2874}
+{"timestamp": "2023-01-01T14:00:00Z", "level": "ERROR", "message": "Service timeout during API request", "host": "server1", "pid": 4208}
+{"timestamp": "2023-01-01T15:00:00Z", "level": "INFO", "message": "Scheduled database maintenance", "host": "server4", "pid": 5319}
+{"timestamp": "2023-01-01T16:00:00Z", "level": "ERROR", "message": "User permissions updated", "host": "server1", "pid": 2048, "user": "john_doe"}
+{"timestamp": "2023-01-01T17:00:00Z", "level": "WARN", "message": "Cache invalidated", "host": "server1", "pid": 1986}
+{"timestamp": "2023-01-01T18:00:00Z", "level": "WARN", "message": "Low disk space on server", "host": "server4", "pid": 9012}
+{"timestamp": "2023-01-01T19:00:00Z", "level": "INFO", "message": "Application reached peak load", "host": "server3", "pid": 6439}
+{"timestamp": "2023-01-01T20:00:00Z", "level": "DEBUG", "message": "High memory usage detected", "host": "server3", "pid": 1109}
+{"timestamp": "2023-01-01T21:00:00Z", "level": "INFO", "message": "Connection reestablished with database", "host": "server1", "pid": 6439}
+{"timestamp": "2023-01-01T22:00:00Z", "level": "DEBUG", "message": "Service timeout during API request", "host": "server3", "pid": 1019}
+{"timestamp": "2023-01-01T23:00:00Z", "level": "DEBUG", "message": "Application initialized successfully", "host": "server3", "pid": 5678}
+{"timestamp": "2023-01-02T00:00:00Z", "level": "DEBUG", "message": "Debug mode enabled", "host": "server4", "pid": 5548}
+{"timestamp": "2023-01-02T01:00:00Z", "level": "WARN", "message": "User login successful", "host": "server4", "pid": 3056, "user": "john_doe"}
+{"timestamp": "2023-01-02T02:00:00Z", "level": "ERROR", "message": "Application reached peak load", "host": "server3", "pid": 8901}
+{"timestamp": "2023-01-02T03:00:00Z", "level": "INFO", "message": "Disk cleanup completed", "host": "server3", "pid": 8642}
+{"timestamp": "2023-01-02T04:00:00Z", "level": "WARN", "message": "Debug mode enabled", "host": "server4", "pid": 1234}
+{"timestamp": "2023-01-02T05:00:00Z", "level": "WARN", "message": "Connection reestablished with database", "host": "server4", "pid": 1019}
+{"timestamp": "2023-01-01T00:00:00Z", "level": "ERROR", "message": "Low disk space on server", "host": "server4", "pid": 8642}
+{"timestamp": "2023-01-01T01:00:00Z", "level": "DEBUG", "message": "Debug mode enabled", "host": "server2", "pid": 3765}
+{"timestamp": "2023-01-01T02:00:00Z", "level": "INFO", "message": "Service timeout during API request", "host": "server1", "pid": 1019}
+{"timestamp": "2023-01-01T03:00:00Z", "level": "INFO", "message": "Failed to connect to external service", "host": "server4", "pid": 9102}
+{"timestamp": "2023-01-01T04:00:00Z", "level": "WARN", "message": "Backup completed successfully", "host": "server1", "pid": 1019}
+{"timestamp": "2023-01-01T05:00:00Z", "level": "DEBUG", "message": "Service timeout during API request", "host": "server3", "pid": 9753}
+{"timestamp": "2023-01-01T06:00:00Z", "level": "WARN", "message": "Software update applied", "host": "server2", "pid": 2874}
+{"timestamp": "2023-01-01T07:00:00Z", "level": "ERROR", "message": "Software update applied", "host": "server2", "pid": 6789}
+{"timestamp": "2023-01-01T08:00:00Z", "level": "DEBUG", "message": "Configuration file missing", "host": "server1", "pid": 8642}
+{"timestamp": "2023-01-01T09:00:00Z", "level": "WARN", "message": "API rate limit nearing threshold", "host": "server1", "pid": 5319}
+{"timestamp": "2023-01-01T10:00:00Z", "level": "WARN", "message": "User permissions updated", "host": "server1", "pid": 5678, "user": "alice_smith"}
+{"timestamp": "2023-01-01T11:00:00Z", "level": "DEBUG", "message": "User login successful", "host": "server3", "pid": 8901, "user": "admin"}
+{"timestamp": "2023-01-01T12:00:00Z", "level": "INFO", "message": "Backup completed successfully", "host": "server2", "pid": 5678}
+{"timestamp": "2023-01-01T13:00:00Z", "level": "INFO", "message": "Failed to connect to external service", "host": "server4", "pid": 4321}
+{"timestamp": "2023-01-01T14:00:00Z", "level": "DEBUG", "message": "Memory usage optimized", "host": "server2", "pid": 5319}
+{"timestamp": "2023-01-01T15:00:00Z", "level": "ERROR", "message": "Holiday mode activated", "host": "server1", "pid": 1023}
+{"timestamp": "2023-01-01T16:00:00Z", "level": "DEBUG", "message": "Cache invalidated", "host": "server1", "pid": 1234}
+{"timestamp": "2023-01-01T17:00:00Z", "level": "INFO", "message": "New user registered", "host": "server4", "pid": 1023}
+{"timestamp": "2023-01-01T18:00:00Z", "level": "DEBUG", "message": "Maintenance window closed", "host": "server4", "pid": 2874}
+{"timestamp": "2023-01-01T19:00:00Z", "level": "DEBUG", "message": "Failed to connect to external service", "host": "server4", "pid": 1234}
+{"timestamp": "2023-01-01T20:00:00Z", "level": "DEBUG", "message": "Scheduled database maintenance", "host": "server2", "pid": 3056}
+{"timestamp": "2023-01-01T21:00:00Z", "level": "WARN", "message": "Holiday mode activated", "host": "server2", "pid": 3765}
+{"timestamp": "2023-01-01T22:00:00Z", "level": "ERROR", "message": "Memory usage optimized", "host": "server3", "pid": 3765}
+{"timestamp": "2023-01-01T23:00:00Z", "level": "INFO", "message": "Session expired for user", "host": "server3", "pid": 4208}
+{"timestamp": "2023-01-02T00:00:00Z", "level": "INFO", "message": "Service timeout during API request", "host": "server4", "pid": 5548}
+{"timestamp": "2023-01-02T01:00:00Z", "level": "ERROR", "message": "Scheduled database maintenance", "host": "server4", "pid": 4321}
+{"timestamp": "2023-01-02T02:00:00Z", "level": "DEBUG", "message": "Connection reestablished with database", "host": "server4", "pid": 3056}
+{"timestamp": "2023-01-02T03:00:00Z", "level": "DEBUG", "message": "Daily report generated", "host": "server4", "pid": 8901, "report_id": "report_2023_10_15"}
+{"timestamp": "2023-01-02T04:00:00Z", "level": "DEBUG", "message": "New user registered", "host": "server4", "pid": 2468}
+{"timestamp": "2023-01-02T05:00:00Z", "level": "WARN", "message": "Cache invalidated", "host": "server2", "pid": 3097}
+{"timestamp": "2023-01-01T00:00:00Z", "level": "WARN", "message": "Debug mode enabled", "host": "server4", "pid": 6789}
+{"timestamp": "2023-01-01T01:00:00Z", "level": "DEBUG", "message": "New user registered", "host": "server3", "pid": 8210}
+{"timestamp": "2023-01-01T02:00:00Z", "level": "DEBUG", "message": "Memory usage optimized", "host": "server1", "pid": 7531}
+{"timestamp": "2023-01-01T03:00:00Z", "level": "INFO", "message": "New user registered", "host": "server4", "pid": 6420}
+{"timestamp": "2023-01-01T04:00:00Z", "level": "WARN", "message": "Holiday mode activated", "host": "server3", "pid": 5548}
+{"timestamp": "2023-01-01T05:00:00Z", "level": "INFO", "message": "Server restarted for maintenance", "host": "server4", "pid": 5548}
+{"timestamp": "2023-01-01T06:00:00Z", "level": "WARN", "message": "Server restarted for maintenance", "host": "server3", "pid": 9012}
+{"timestamp": "2023-01-01T07:00:00Z", "level": "DEBUG", "message": "Debug mode enabled", "host": "server2", "pid": 3097}
+{"timestamp": "2023-01-01T08:00:00Z", "level": "ERROR", "message": "Holiday mode activated", "host": "server1", "pid": 3056}
+{"timestamp": "2023-01-01T09:00:00Z", "level": "INFO", "message": "Memory usage optimized", "host": "server2", "pid": 5319}
+{"timestamp": "2023-01-01T10:00:00Z", "level": "INFO", "message": "Memory usage optimized", "host": "server2", "pid": 2468}
+{"timestamp": "2023-01-01T11:00:00Z", "level": "DEBUG", "message": "Debug mode enabled", "host": "server4", "pid": 2468}
+{"timestamp": "2023-01-01T12:00:00Z", "level": "ERROR", "message": "Connection reestablished with database", "host": "server2", "pid": 6420}
+{"timestamp": "2023-01-01T13:00:00Z", "level": "ERROR", "message": "Cache invalidated", "host": "server1", "pid": 4657}
+{"timestamp": "2023-01-01T14:00:00Z", "level": "INFO", "message": "Holiday mode activated", "host": "server2", "pid": 3765}
+{"timestamp": "2023-01-01T15:00:00Z", "level": "DEBUG", "message": "API rate limit nearing threshold", "host": "server4", "pid": 9102}
+{"timestamp": "2023-01-01T16:00:00Z", "level": "DEBUG", "message": "System health check passed", "host": "server3", "pid": 5678}
+{"timestamp": "2023-01-01T17:00:00Z", "level": "DEBUG", "message": "API rate limit nearing threshold", "host": "server2", "pid": 1357}
+{"timestamp": "2023-01-01T18:00:00Z", "level": "WARN", "message": "Low disk space on server", "host": "server3", "pid": 6789}
+{"timestamp": "2023-01-01T19:00:00Z", "level": "DEBUG", "message": "Low disk space on server", "host": "server3", "pid": 1357}
+{"timestamp": "2023-01-01T20:00:00Z", "level": "WARN", "message": "Software update applied", "host": "server2", "pid": 2874}
+{"timestamp": "2023-01-01T21:00:00Z", "level": "DEBUG", "message": "New user registered", "host": "server4", "pid": 1234}
+{"timestamp": "2023-01-01T22:00:00Z", "level": "DEBUG", "message": "Software update applied", "host": "server2", "pid": 8642}
+{"timestamp": "2023-01-01T23:00:00Z", "level": "WARN", "message": "Cache invalidated", "host": "server1", "pid": 2468}
+{"timestamp": "2023-01-02T00:00:00Z", "level": "WARN", "message": "Failed to connect to external service", "host": "server3", "pid": 8901}
+{"timestamp": "2023-01-02T01:00:00Z", "level": "WARN", "message": "User permissions updated", "host": "server1", "pid": 1023, "user": "bob_jones"}
+{"timestamp": "2023-01-02T02:00:00Z", "level": "INFO", "message": "Maintenance window closed", "host": "server1", "pid": 5678}
+{"timestamp": "2023-01-02T03:00:00Z", "level": "INFO", "message": "Software update applied", "host": "server1", "pid": 6420}
+{"timestamp": "2023-01-02T04:00:00Z", "level": "WARN", "message": "Holiday mode activated", "host": "server4", "pid": 1357}
+{"timestamp": "2023-01-02T05:00:00Z", "level": "DEBUG", "message": "Server restarted for maintenance", "host": "server2", "pid": 4657}
+{"timestamp": "2023-01-01T00:00:00Z", "level": "INFO", "message": "Software update applied", "host": "server2", "pid": 7321}
+{"timestamp": "2023-01-01T01:00:00Z", "level": "ERROR", "message": "High memory usage detected", "host": "server3", "pid": 2468}
+{"timestamp": "2023-01-01T02:00:00Z", "level": "DEBUG", "message": "Debug mode enabled", "host": "server4", "pid": 5319}
+{"timestamp": "2023-01-01T03:00:00Z", "level": "WARN", "message": "User permissions updated", "host": "server3", "pid": 5319, "user": "john_doe"}
+{"timestamp": "2023-01-01T04:00:00Z", "level": "DEBUG", "message": "Loading configuration from config.yaml", "host": "server1", "pid": 1023}
+{"timestamp": "2023-01-01T05:00:00Z", "level": "ERROR", "message": "Session expired for user", "host": "server4", "pid": 4321}
+{"timestamp": "2023-01-01T06:00:00Z", "level": "INFO", "message": "System health check passed", "host": "server3", "pid": 5319}
+{"timestamp": "2023-01-01T07:00:00Z", "level": "INFO", "message": "Loading configuration from config.yaml", "host": "server3", "pid": 6420}
+{"timestamp": "2023-01-01T08:00:00Z", "level": "DEBUG", "message": "Access denied for user operation", "host": "server2", "pid": 9102, "error": "TimeoutException"}
+{"timestamp": "2023-01-01T09:00:00Z", "level": "INFO", "message": "Failed to connect to external service", "host": "server1", "pid": 7890}
+{"timestamp": "2023-01-01T10:00:00Z", "level": "WARN", "message": "Scheduled database maintenance", "host": "server3", "pid": 6420}
+{"timestamp": "2023-01-01T11:00:00Z", "level": "INFO", "message": "Connection reestablished with database", "host": "server3", "pid": 4208}
+{"timestamp": "2023-01-01T12:00:00Z", "level": "DEBUG", "message": "Connection reestablished with database", "host": "server2", "pid": 7321}
+{"timestamp": "2023-01-01T13:00:00Z", "level": "DEBUG", "message": "Disk cleanup completed", "host": "server4", "pid": 5678}
+{"timestamp": "2023-01-01T14:00:00Z", "level": "ERROR", "message": "Access denied for user operation", "host": "server1", "pid": 4208, "error": "ConnectionRefused"}
+{"timestamp": "2023-01-01T15:00:00Z", "level": "INFO", "message": "Failed to connect to external service", "host": "server2", "pid": 9753}
+{"timestamp": "2023-01-01T16:00:00Z", "level": "INFO", "message": "Session expired for user", "host": "server2", "pid": 3097}
+{"timestamp": "2023-01-01T17:00:00Z", "level": "WARN", "message": "Low disk space on server", "host": "server1", "pid": 4208}
+{"timestamp": "2023-01-01T18:00:00Z", "level": "ERROR", "message": "API rate limit nearing threshold", "host": "server3", "pid": 5548}
+{"timestamp": "2023-01-01T19:00:00Z", "level": "ERROR", "message": "Scheduled database maintenance", "host": "server4", "pid": 3765}
+{"timestamp": "2023-01-01T20:00:00Z", "level": "WARN", "message": "API rate limit nearing threshold", "host": "server2", "pid": 4657}
+{"timestamp": "2023-01-01T21:00:00Z", "level": "WARN", "message": "Debug mode enabled", "host": "server2", "pid": 6789}
+{"timestamp": "2023-01-01T22:00:00Z", "level": "INFO", "message": "API rate limit nearing threshold", "host": "server3", "pid": 3056}
+{"timestamp": "2023-01-01T23:00:00Z", "level": "ERROR", "message": "Session expired for user", "host": "server4", "pid": 1986}
+{"timestamp": "2023-01-02T00:00:00Z", "level": "DEBUG", "message": "Low disk space on server", "host": "server1", "pid": 4657}
+{"timestamp": "2023-01-02T01:00:00Z", "level": "DEBUG", "message": "Debug mode enabled", "host": "server4", "pid": 2468}
+{"timestamp": "2023-01-02T02:00:00Z", "level": "INFO", "message": "API rate limit nearing threshold", "host": "server3", "pid": 1357}
+{"timestamp": "2023-01-02T03:00:00Z", "level": "WARN", "message": "Access denied for user operation", "host": "server4", "pid": 7890, "error": "TimeoutException"}
+{"timestamp": "2023-01-02T04:00:00Z", "level": "DEBUG", "message": "Disk cleanup completed", "host": "server2", "pid": 4657}
+{"timestamp": "2023-01-02T05:00:00Z", "level": "DEBUG", "message": "Cache invalidated", "host": "server1", "pid": 4657}
+{"timestamp": "2023-01-01T00:00:00Z", "level": "DEBUG", "message": "User permissions updated", "host": "server4", "pid": 8642, "user": "bob_jones"}
+{"timestamp": "2023-01-01T01:00:00Z", "level": "INFO", "message": "Holiday mode activated", "host": "server3", "pid": 1023}
+{"timestamp": "2023-01-01T02:00:00Z", "level": "ERROR", "message": "Loading configuration from config.yaml", "host": "server3", "pid": 1023}
+{"timestamp": "2023-01-01T03:00:00Z", "level": "ERROR", "message": "System health check passed", "host": "server2", "pid": 7531}
+{"timestamp": "2023-01-01T04:00:00Z", "level": "DEBUG", "message": "Memory usage optimized", "host": "server2", "pid": 4321}
+{"timestamp": "2023-01-01T05:00:00Z", "level": "WARN", "message": "Disk cleanup completed", "host": "server2", "pid": 1234}
+{"timestamp": "2023-01-01T06:00:00Z", "level": "INFO", "message": "End of year summary generated", "host": "server2", "pid": 9753, "report_id": "report_2023_10_15"}
+{"timestamp": "2023-01-01T07:00:00Z", "level": "DEBUG", "message": "Low disk space on server", "host": "server1", "pid": 1234}
+{"timestamp": "2023-01-01T08:00:00Z", "level": "WARN", "message": "Scheduled database maintenance", "host": "server2", "pid": 1023}
+{"timestamp": "2023-01-01T09:00:00Z", "level": "DEBUG", "message": "Debug mode enabled", "host": "server2", "pid": 4208}
+{"timestamp": "2023-01-01T10:00:00Z", "level": "DEBUG", "message": "Low disk space on server", "host": "server2", "pid": 2874}
+{"timestamp": "2023-01-01T11:00:00Z", "level": "DEBUG", "message": "Debug mode enabled", "host": "server2", "pid": 2048}
+{"timestamp": "2023-01-01T12:00:00Z", "level": "DEBUG", "message": "Debug mode enabled", "host": "server3", "pid": 6789}
+{"timestamp": "2023-01-01T13:00:00Z", "level": "ERROR", "message": "Software update applied", "host": "server4", "pid": 5548}
+{"timestamp": "2023-01-01T14:00:00Z", "level": "WARN", "message": "Connection reestablished with database", "host": "server3", "pid": 1109}
+{"timestamp": "2023-01-01T15:00:00Z", "level": "DEBUG", "message": "Session expired for user", "host": "server3", "pid": 2874}
+{"timestamp": "2023-01-01T16:00:00Z", "level": "ERROR", "message": "New user registered", "host": "server4", "pid": 1023}
+{"timestamp": "2023-01-01T17:00:00Z", "level": "INFO", "message": "Memory usage optimized", "host": "server1", "pid": 6420}
+{"timestamp": "2023-01-01T18:00:00Z", "level": "WARN", "message": "Session expired for user", "host": "server4", "pid": 3765}
+{"timestamp": "2023-01-01T19:00:00Z", "level": "WARN", "message": "High memory usage detected", "host": "server2", "pid": 6420}
+{"timestamp": "2023-01-01T20:00:00Z", "level": "WARN", "message": "User permissions updated", "host": "server1", "pid": 5548, "user": "alice_smith"}
+{"timestamp": "2023-01-01T21:00:00Z", "level": "DEBUG", "message": "System health check passed", "host": "server1", "pid": 6420}
+{"timestamp": "2023-01-01T22:00:00Z", "level": "ERROR", "message": "Backup completed successfully", "host": "server4", "pid": 8901}
+{"timestamp": "2023-01-01T23:00:00Z", "level": "ERROR", "message": "Scheduled database maintenance", "host": "server3", "pid": 7321}
+{"timestamp": "2023-01-02T00:00:00Z", "level": "INFO", "message": "End of year summary generated", "host": "server4", "pid": 7531, "report_id": "summary_2024"}
+{"timestamp": "2023-01-02T01:00:00Z", "level": "ERROR", "message": "User permissions updated", "host": "server2", "pid": 5319, "user": "alice_smith"}
+{"timestamp": "2023-01-02T02:00:00Z", "level": "DEBUG", "message": "New user registered", "host": "server3", "pid": 7531}
+{"timestamp": "2023-01-02T03:00:00Z", "level": "WARN", "message": "New user registered", "host": "server4", "pid": 6439}
+{"timestamp": "2023-01-02T04:00:00Z", "level": "ERROR", "message": "Software update applied", "host": "server4", "pid": 1109}
+{"timestamp": "2023-01-02T05:00:00Z", "level": "INFO", "message": "User permissions updated", "host": "server2", "pid": 7321, "user": "john_doe"}
