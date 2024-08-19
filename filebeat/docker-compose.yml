@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  filebeat:
+    image: elastic/filebeat:7.16.1
+    container_name: filebeat
+    volumes:
+      - ./filebeat.yml:/usr/share/filebeat/filebeat.yml
+      - ./log.log:/home/log.log
+    networks:
+      - logstash_network
+
+networks:
+  logstash_network:
+    driver: bridge

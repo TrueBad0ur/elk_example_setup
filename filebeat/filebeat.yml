@@ -1,0 +1,10 @@
+filebeat.inputs:
+- type: log
+  paths:
+    - /home/log.log
+  fields_under_root: true
+  fields:
+    log_type: nginx_access
+
+output.logstash:
+  hosts: ["ELK-IP:5000"]
